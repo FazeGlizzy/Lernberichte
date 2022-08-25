@@ -18,7 +18,7 @@ Random Number Generator wo am geschickt erraten muss welche Zahl generiert wurde
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |      Muss       |Funktion| Eine zufällige Zahl soll erstellt werden |
 | ...  |                 |      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -34,7 +34,8 @@ Random Number Generator wo am geschickt erraten muss welche Zahl generiert wurde
 
 ### 1.4 Diagramme
 
-![alt text](file:///C:/Users/steve/OneDrive/Desktop/PaP/RANDOM%20NUMBER%20GENERATOR.PNG)
+![RNG](https://user-images.githubusercontent.com/89085881/186608807-bb4d034e-27c4-4148-9091-e8ac0f4975e9.png)
+
 
 ## 2 Planen
 
