@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Steven Salie
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,7 +12,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Random Number Generator wo am geschickt erraten muss welche Zahl generiert wurde
 
 ### 1.2 User Stories
 
@@ -36,7 +34,7 @@
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![alt text](file:///C:/Users/steve/OneDrive/Desktop/PaP/RANDOM%20NUMBER%20GENERATOR.PNG)
 
 ## 2 Planen
 
